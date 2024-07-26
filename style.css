@@ -31,14 +31,16 @@ body {
     border-radius: 20px;
     padding: 30px;
     width: 600px;
+    height: 500px;
     z-index: 1;
 }
 
 .header {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-top: 8%;
 }
+
 
 .header img {
     margin-right: 10px;
